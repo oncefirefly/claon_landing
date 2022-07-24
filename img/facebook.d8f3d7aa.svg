@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #222;
+      }
+    </style>
+  </defs>
+  <g id="facebook" transform="translate(-1425.19 -6874)">
+    <rect id="사각형_3545" data-name="사각형 3545" class="cls-1" width="20" height="20" transform="translate(1425.19 6874)"/>
+    <path id="패스_22340" data-name="패스 22340" class="cls-2" d="M236.337,124.487V117.58h2.232l.334-2.692h-2.566V113.17c0-.78.208-1.311,1.284-1.311h1.373v-2.407a17.671,17.671,0,0,0-2-.106c-1.978,0-3.333,1.254-3.333,3.559v1.985h-2.238v2.692h2.238v6.907Z" transform="translate(1199.885 6767.179)"/>
+  </g>
+</svg>

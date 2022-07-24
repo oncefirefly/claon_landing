@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #222;
+      }
+    </style>
+  </defs>
+  <g id="naver" transform="translate(-1496 -6874)">
+    <rect id="사각형_3542" data-name="사각형 3542" class="cls-1" width="20" height="20" transform="translate(1496 6874)"/>
+    <path id="logo_naver" class="cls-2" d="M8.065,0V5.49L4.19,0H0V10.88H4.176V5.39l3.876,5.49H12.24V0Z" transform="translate(1499.879 6878.56)"/>
+  </g>
+</svg>
