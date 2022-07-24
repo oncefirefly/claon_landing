@@ -1,26 +1,21 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to Your Vue.js App" />
+  <main-page />
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld.vue";
+import MainPage from './views/MainPage.vue';
 
 export default {
-  name: "App",
+  name: 'App',
+
   components: {
-    HelloWorld,
+    MainPage,
   },
 };
 </script>
 
 <style lang="scss">
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.5/dist/web/static/pretendard.css');
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@700&display=swap');
+@import './assets/styles.scss';
 </style>

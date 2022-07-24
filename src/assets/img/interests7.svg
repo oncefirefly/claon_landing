@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <defs>
+        <clipPath id="p6l8kpv7ka">
+            <path data-name="사각형 3014" style="fill:none" d="M0 0h32v32H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="그룹 6920" style="clip-path:url(#p6l8kpv7ka)">
+        <path data-name="패스 21717" d="M3.66 31.008V17.829h14.166v13.179a.992.992 0 0 1-.992.992H4.652a.992.992 0 0 1-.992-.992m14.173-13.179V3.657h13.175a.992.992 0 0 1 .992.992v12.188a.992.992 0 0 1-.992.992zm-14.173 0V4.649a.992.992 0 0 1 .992-.992h13.174v14.172z" style="fill:#ffeaf0"/>
+        <path data-name="패스 21718" d="M1.692.75h13.221v14.2H1.692A.949.949 0 0 1 .75 14V5.759" style="stroke:#313131;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.5px;fill:none"/>
+        <path data-name="패스 21719" d="M13.976 29.093H1.7a.947.947 0 0 1-.944-.947V14.9h14.16v13.249a.943.943 0 0 1-.94.944z" style="stroke:#313131;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.5px;fill:none"/>
+        <path data-name="패스 21720" d="M28.146 14.948H14.927V.751h13.219a.947.947 0 0 1 .944.946v12.3a.949.949 0 0 1-.944.951z" style="stroke:#313131;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.5px;fill:none"/>
+        <path data-name="선 92" transform="translate(4.527 7.848)" style="stroke:#313131;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.5px;fill:none" d="M0 0h6.609"/>
+        <path data-name="선 93" transform="translate(7.832 4.535)" style="stroke:#313131;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.5px;fill:none" d="M0 6.624V0"/>
+        <path data-name="선 94" transform="translate(5.498 19.653)" style="stroke:#313131;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.5px;fill:none" d="m0 0 4.673 4.685"/>
+        <path data-name="선 95" transform="translate(5.498 19.652)" style="stroke:#313131;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.5px;fill:none" d="M0 4.685 4.673 0"/>
+        <path data-name="선 96" transform="translate(18.704 7.847)" style="stroke:#313131;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.5px;fill:none" d="M0 0h6.609"/>
+    </g>
+</svg>
